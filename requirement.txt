@@ -1,0 +1,7 @@
+langchain
+langchain-groq
+PyMuPDF
+openai
+streamlit
+faiss-cpu
+langchian-community
